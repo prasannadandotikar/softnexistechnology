@@ -34,3 +34,21 @@ Task 2: Building and Simulating a Small Digital Block
 *Correct simulation results
 *Generated netlist
 *Gate-level diagram
+
+Task 3: Synthesizing Your Design to Gates 
+
+--> Description
+*Synthesis converts the Verilog design into a gate-level circuit using logic gates.
+
+--> Tools Used
+*EDA Playground
+*Yosys
+
+--> Files
+*design.sv – Design
+*run.ys – Synthesis script
+*netlist.v – Output
+
+--> Output
+*Gate-level netlist
+*Logic diagram
